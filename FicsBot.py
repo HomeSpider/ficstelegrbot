@@ -1,6 +1,6 @@
 import telebot
 from telebot import types
-bot = telebot.TeleBot("1439321876:AAHM2M0dweIPOahWsRQEfccWYcJZPcUAEoE")
+bot = telebot.TeleBot("TOKEN")
 
 fflist=[]
 class fics:
